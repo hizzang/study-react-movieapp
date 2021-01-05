@@ -1,3 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background-color: tomato;
+  margin: 0;
+  padding: 0;
+  font-family:'Courier New', Courier, monospace;
+  background-color: orange;
+  height: 100%;
 }
