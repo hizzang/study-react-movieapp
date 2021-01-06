@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/study-react-movieapp/static/css/main.e3db91e3.chunk.css",
+    "main.js": "/study-react-movieapp/static/js/main.b02e2569.chunk.js",
+    "main.js.map": "/study-react-movieapp/static/js/main.b02e2569.chunk.js.map",
+    "runtime-main.js": "/study-react-movieapp/static/js/runtime-main.1a0710f8.js",
+    "runtime-main.js.map": "/study-react-movieapp/static/js/runtime-main.1a0710f8.js.map",
+    "static/js/2.0e51d250.chunk.js": "/study-react-movieapp/static/js/2.0e51d250.chunk.js",
+    "static/js/2.0e51d250.chunk.js.map": "/study-react-movieapp/static/js/2.0e51d250.chunk.js.map",
+    "static/js/3.28e1e152.chunk.js": "/study-react-movieapp/static/js/3.28e1e152.chunk.js",
+    "static/js/3.28e1e152.chunk.js.map": "/study-react-movieapp/static/js/3.28e1e152.chunk.js.map",
+    "index.html": "/study-react-movieapp/index.html",
+    "static/css/main.e3db91e3.chunk.css.map": "/study-react-movieapp/static/css/main.e3db91e3.chunk.css.map",
+    "static/js/2.0e51d250.chunk.js.LICENSE.txt": "/study-react-movieapp/static/js/2.0e51d250.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a0710f8.js",
+    "static/js/2.0e51d250.chunk.js",
+    "static/css/main.e3db91e3.chunk.css",
+    "static/js/main.b02e2569.chunk.js"
+  ]
+}
